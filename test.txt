@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 test.txt
+=======
+test
+test
+>>>>>>> 5c057df9bcde404ab72db558c90b9b0ccd00f7b5
